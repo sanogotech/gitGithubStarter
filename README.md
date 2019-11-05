@@ -1,4 +1,4 @@
-
+** Use git bash for  touch filename and  vim  filename 
 ** git init
 
 
