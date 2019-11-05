@@ -10,6 +10,9 @@
 
 ** git  commit -m  "Add README file"
 
+*** git remote add origin https://github.com/sanogotech/gitdemosample.git
+**  git push -u origin master
+
 ** git log # uniquement le log des commits
 
 **  git  branch  # Display  only one branch  "Master"
@@ -29,9 +32,12 @@
 
 ** OU À vous de tester parmi les nombreux outils existants : vimdiff, meld, opendiff, kdiff3, tkdiff, xxdiff, tortoisemerge, gvimdiff, diffuse, ecmerge, p4merge, araxis, emerge
 
-** git mergetool vimdiff 
-** git log 
+** git mergetool vimdiff
+
+** git log
+
 ** Pour retrouver qui a modifié une ligne précise de code dans un projet
+
 ** git blame  monfichier.ext
 
 
