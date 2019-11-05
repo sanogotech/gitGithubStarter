@@ -18,6 +18,8 @@
 
 **  git  checkout  mabranch  # change branche
 
+//Switched to branch 'mabranch'
+
 **  Change  README and  commit -add
 
 ** git log
