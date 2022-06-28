@@ -26,7 +26,9 @@
 **  Change  README and  commit -add
 
 ** git log
-
+** $ git branch -vv
+ branch  808b598 [origin/branch] Initial commit                                                                                                                         master  808b598 [origin/master] Initial 
+*git push -u origin branch   # ajout branche sur le remote repository
 **  git  checkout master
 **  git merge  mabranch # merge de mabranch vers master
 
