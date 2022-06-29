@@ -18,13 +18,15 @@
 ```
 ** git log # uniquement le log des commits
 
+```
 **  git  branch  # Display  only one branch  "Master"
 
 **  git  branch  mabranch   # create new branch
 
 **  git  checkout  mabranch  # change branche
+```
 
-//Switched to branch 'mabranch'
+Switched to branch 'mabranch'
 
 **  Change  README and  commit -add
 
@@ -48,3 +50,5 @@ git merge  mabranch # merge de mabranch vers master
 ** git blame  monfichier.ext
 
 ```
+## Pull Request depuis une branche depuis l'ihm github pour fusionner avec la branche main/master
+* main <---- branch  //  validation // commit / merge/ validation.
