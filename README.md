@@ -4,15 +4,18 @@
 
 **  type null > README.md
 
-** git add *
+```
+   git add *
 
-** git status  #  status des ajouts et motifications
+   git status  #  status des ajouts et motification
 
-** git  commit -m  "Add README file"
+  git  commit -m  "Add README file"
 
-*** git remote add origin https://github.com/sanogotech/gitdemosample.git
-**  git push -u origin master
+  git remote add origin https://github.com/sanogotech/gitdemosample.git
+  git push -u origin master
+  ou git push https://tokenfull@github.com/sanogotech/gitdemosample.git
 
+```
 ** git log # uniquement le log des commits
 
 **  git  branch  # Display  only one branch  "Master"
